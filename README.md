@@ -6,11 +6,14 @@ By manually configuring the network, security perimeters, compute nodes and load
 
 first, let’s understand,
 
-## what is VPC?
+## What is VPC?
 
 The full form of VPC is a virtual private network. you can think in this way that you have your own personal area or a little corner on the internet within AWS that you can use for running your applications on the internet. That personal area is called VPC. This VPC keeps your data separate from other users within the AWS. You don’t need to worry about interference from others.
+
 You can manage your space and create different areas in that little corner for different purposes. those different areas are called Subnets. You are the one who will decide who can come to your place by using some rules that are called security groups.
+
 You can think that you have your own house in the cloud AWS and you can create many rooms in that house and you are the one who will decide who will decide who can come to your house. In this scenario. the house is VPC, rooms are subnets and rules are security groups who will secure your house.
+
 hope you understand this, now let’s move to the next part,
 
 ## Architecture
