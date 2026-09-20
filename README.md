@@ -52,8 +52,9 @@ CIDR, Subnets, Internet Gateway, Route Tables, VPC Endpoints Target Groups Secur
 ## Author
 
 **Dayyan Hasan**
-- **GitHub:** [@dynhsn](https://github.com/dynhsn)
 - **LinkedIn:** [Dayyan Hasan](https://www.linkedin.com/in/dayyanhasan57)
+- **Medium:** [Dayyan Hasan](https://medium.com/@dayyanhasan)
+- **GitHub:** [Dayyan Hasan](https://github.com/dynhsn)
 
 - ---
 
