@@ -7,6 +7,7 @@ By manually configuring the network, security perimeters, compute nodes and load
 ## Architecture
 
 See the project's architecture diagram below:
+![Project Architecture](architecture-diagram.png)
 
 The application is deployed across two availability zones in the `ap-south-1` region and features a hardened networking security perimeter isolating the public internet from the compute layer.
 
