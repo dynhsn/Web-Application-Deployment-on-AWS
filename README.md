@@ -4,11 +4,11 @@ Project is a hands-on cloud infrastructure learning exercise showcasing the manu
 
 By manually configuring the network, security perimeters, compute nodes and load balancers this project demonstrates foundational AWS concepts and systems administration best practices.
 
-first, let’s understand,
+First, let’s understand,
 
 ## What is VPC?
 
-The full form of VPC is a virtual private network. you can think in this way that you have your own personal area or a little corner on the internet within AWS that you can use for running your applications on the internet. That personal area is called VPC. This VPC keeps your data separate from other users within the AWS. You don’t need to worry about interference from others.
+The full form of VPC is a **Virtual Private Network**. you can think in this way that you have your own personal area or a little corner on the internet within AWS that you can use for running your applications on the internet. That personal area is called VPC. This VPC keeps your data separate from other users within the AWS. You don’t need to worry about interference from others.
 
 You can manage your space and create different areas in that little corner for different purposes. those different areas are called Subnets. You are the one who will decide who can come to your place by using some rules that are called security groups.
 
@@ -53,6 +53,8 @@ sudo python -m http.server 8000
 ```
 Serving the custom `index.html` assets from the private instance.
 The application was verified to be accessible over HTTP with 200 OK response from the public ALB DNS endpoint.
+![Deployed Web App](Deployed-WebApp.png)
+
 ## Tools and Technologies
 This project demonstrates proficiency in the following tools and technologies:
 AWS Infrastructure as Code Traffic Management Zero Direct Public Exposure Linux System Administration
