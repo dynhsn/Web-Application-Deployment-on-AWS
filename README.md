@@ -1,4 +1,4 @@
-# Highly Available Web App Deployment on AWS
+# Web App Deployment on AWS
 
 Project is a hands-on cloud infrastructure learning exercise showcasing the manual provisioning and configuration of a multi-tiered, fault tolerant web application environment on Amazon Web Services (AWS).
 
@@ -47,7 +47,16 @@ AWS Infrastructure as Code Traffic Management Zero Direct Public Exposure Linux 
 VPCs Elastic Load Balancing Bastion Hosts RHEL Package Management
 CIDR, Subnets, Internet Gateway, Route Tables, VPC Endpoints Target Groups Security Groups Network ACLs Shell Scripting, Vi, Yum
 
+- ---
+
 ## Author
 
-Dayyan Hasan
-Portfolio / GitHub | LinkedIn
+**Dayyan Hasan**
+- **GitHub:** [@dynhsn](https://github.com/dynhsn)
+- **LinkedIn:** [Dayyan Hasan](https://www.linkedin.com/in/dayyanhasan57)
+
+- ---
+
+## 📄 License
+
+Open for use in coursework, portfolios, and teaching material. Attribution appreciated.
